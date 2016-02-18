@@ -1,0 +1,25 @@
+# BLASTN 2.2.24+
+# Query:  uno
+# Database: /Users/dariogf/progs/ruby/seqtrimii/DB/formatted/mids.fasta
+# Fields: query id, subject acc., % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, score, query frame, sbjct frame, query seq, subject seq
+# 1 hits found
+uno	RL1	100.00	11	0	0	5	15	1	11	0.003	22.3	11	1	1	ACACGACGACT	ACACGACGACT
+# BLASTN 2.2.24+
+# Query:  dos
+# Database: /Users/dariogf/progs/ruby/seqtrimii/DB/formatted/mids.fasta
+# Fields: query id, subject acc., % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, score, query frame, sbjct frame, query seq, subject seq
+# 3 hits found
+dos	RL1	100.00	11	0	0	5	15	1	11	0.006	22.3	11	1	1	ACACGACGACT	ACACGACGACT
+dos	RL5	100.00	7	0	0	62	68	7	1	1.6	14.4	7	1	1	TACTCGT	TACTCGT
+dos	RL3	100.00	7	0	0	62	68	5	11	1.6	14.4	7	1	1	TACTCGT	TACTCGT
+# BLASTN 2.2.24+
+# Query:  tres
+# Database: /Users/dariogf/progs/ruby/seqtrimii/DB/formatted/mids.fasta
+# 0 hits found
+# BLASTN 2.2.24+
+# Query:  cuatro
+# Database: /Users/dariogf/progs/ruby/seqtrimii/DB/formatted/mids.fasta
+# Fields: query id, subject acc., % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, score, query frame, sbjct frame, query seq, subject seq
+# 1 hits found
+cuatro	RL1	100.00	11	0	0	5	15	1	11	0.005	22.3	11	1	1	ACACGACGACT	ACACGACGACT
+# BLAST processed 4 queries

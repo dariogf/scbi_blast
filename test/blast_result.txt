@@ -1,0 +1,252 @@
+BLASTN 2.2.20 [Feb-08-2009]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= SEQ1_AA177160 ESTrp100 cDNA library from pre-meiotic male cones
+Pinus radiata cDNA 5'similar to FLORICAULA/LEAFY-like, mRNA sequence.
+         (345 letters)
+
+Database: db1.fasta 
+           368,718 sequences; 223,306,471 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+AA177161 ESTrp101 cDNA library from pre-meiotic male cones Pinus...   684   0.0  
+AA177160 ESTrp100 cDNA library from pre-meiotic male cones Pinus...   684   0.0  
+AA177162 ESTrp102 cDNA library from pre-meiotic male cones Pinus...   678   0.0  
+CT583549 Pinus pinaster bud EST.                                      597   e-169
+DT633465 EST1148396 Normalized pine embryo library, Lib_D Pinus ...    34   3.6  
+DR692334 EST1082422 Normalized pine embryo library, Lib_D Pinus ...    34   3.6  
+DR180575 RTMNUT1_33_B08.g1_A029 Roots minus micronutrients Pinus...    34   3.6  
+DR116741 RTMG1_2_B05.g1_A029 Roots minus magnesium Pinus taeda c...    34   3.6  
+DR069728 RTDK1_9_C06.b1_A029 Roots, dark Pinus taeda cDNA clone ...    34   3.6  
+DR069474 RTDK1_7_B01.g1_A029 Roots, dark Pinus taeda cDNA clone ...    34   3.6  
+CX649059 COLD1_32_E05.g1_A029 Root cold Pinus taeda cDNA clone C...    34   3.6  
+CX646190 COLD1_7_G09.g1_A029 Root cold Pinus taeda cDNA clone CO...    34   3.6  
+CT574774 Pinus pinaster bud EST.                                       34   3.6  
+CO170771 NDL1_16_F10.g1_A029 Needles control Pinus taeda cDNA cl...    34   3.6  
+CF475661 RTWW2_11_H07.g1_A021 Well-watered loblolly pine roots W...    34   3.6  
+CD026097 NXSI_097_B06_F NXSI (Nsf Xylem Side wood Inclined) Pinu...    34   3.6  
+BG039660 NXSI_102_F04_F NXSI (Nsf Xylem Side wood Inclined) Pinu...    34   3.6  
+BE123617 NXNV_146_E10_F Nsf Xylem Normal wood Vertical Pinus tae...    34   3.6  
+
+>AA177161 ESTrp101 cDNA library from pre-meiotic male cones Pinus
+           radiata cDNA 5'similar to FLORICAULA/LEAFY-like, mRNA
+           sequence.
+          Length = 450
+
+ Score =  684 bits (345), Expect = 0.0
+ Identities = 345/345 (100%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   gaaagcttttctgcagctttcttcaagtgggaccagagaccgcctgctcttgcgccccca 60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 87  gaaagcttttctgcagctttcttcaagtgggaccagagaccgcctgctcttgcgccccca 146
+
+                                                                       
+Query: 61  caaatgcagaggagtgcaggattggaagctcagcgtattttccatgacttcggtgttcca 120
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 147 caaatgcagaggagtgcaggattggaagctcagcgtattttccatgacttcggtgttcca 206
+
+                                                                       
+Query: 121 aatgcagctgccatggcagcttccaataacagcagcagttgcaggaaggaattgaactgc 180
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 207 aatgcagctgccatggcagcttccaataacagcagcagttgcaggaaggaattgaactgc 266
+
+                                                                       
+Query: 181 ctggaggagctcttcaggaattacggcgtgagatacataacgctgaccaaaatggtggac 240
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 267 ctggaggagctcttcaggaattacggcgtgagatacataacgctgaccaaaatggtggac 326
+
+                                                                       
+Query: 241 atggggttcactgtgaacacattggttaatatgactgaacaagagctggatgatctagtc 300
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 327 atggggttcactgtgaacacattggttaatatgactgaacaagagctggatgatctagtc 386
+
+                                                        
+Query: 301 aggacccttgttgagatataccgtgttgagctcctggttggggag 345
+           |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 387 aggacccttgttgagatataccgtgttgagctcctggttggggag 431
+
+
+>AA177160 ESTrp100 cDNA library from pre-meiotic male cones Pinus
+           radiata cDNA 5'similar to FLORICAULA/LEAFY-like, mRNA
+           sequence.
+          Length = 449
+
+ Score =  684 bits (345), Expect = 0.0
+ Identities = 345/345 (100%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   gaaagcttttctgcagctttcttcaagtgggaccagagaccgcctgctcttgcgccccca 60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 86  gaaagcttttctgcagctttcttcaagtgggaccagagaccgcctgctcttgcgccccca 145
+
+                                                                       
+Query: 61  caaatgcagaggagtgcaggattggaagctcagcgtattttccatgacttcggtgttcca 120
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 146 caaatgcagaggagtgcaggattggaagctcagcgtattttccatgacttcggtgttcca 205
+
+                                                                       
+Query: 121 aatgcagctgccatggcagcttccaataacagcagcagttgcaggaaggaattgaactgc 180
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 206 aatgcagctgccatggcagcttccaataacagcagcagttgcaggaaggaattgaactgc 265
+
+                                                                       
+Query: 181 ctggaggagctcttcaggaattacggcgtgagatacataacgctgaccaaaatggtggac 240
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 266 ctggaggagctcttcaggaattacggcgtgagatacataacgctgaccaaaatggtggac 325
+
+                                                                       
+Query: 241 atggggttcactgtgaacacattggttaatatgactgaacaagagctggatgatctagtc 300
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 326 atggggttcactgtgaacacattggttaatatgactgaacaagagctggatgatctagtc 385
+
+                                                        
+Query: 301 aggacccttgttgagatataccgtgttgagctcctggttggggag 345
+           |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 386 aggacccttgttgagatataccgtgttgagctcctggttggggag 430
+
+
+BLASTN 2.2.20 [Feb-08-2009]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= SEQ7_AA216455 ESTH3 Pinus radiata somatic embryogenic library
+Pinus radiata cDNA clonepPRE22B 5' similar to Hypothetical translation
+elongation factor, mRNAsequence.
+         (325 letters)
+
+Database: db1.fasta 
+           368,718 sequences; 223,306,471 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+AA216455 ESTH3 Pinus radiata somatic embryogenic library Pinus r...   597   e-169
+CO171201 NDL1_19_G07.g1_A029 Needles control Pinus taeda cDNA cl...   490   e-137
+FE522525 li0678875 Radiata pine mature latewood cDNA library Pin...   486   e-136
+DR079374 RTFEPL1_10_H01.g1_A029 Roots plus added iron Pinus taed...   474   e-132
+DT639026 EST1153957 Normalized pine embryo library, Lib_D Pinus ...   470   e-131
+DT631905 EST1146836 Normalized pine embryo library, Lib_D Pinus ...   470   e-131
+DR695137 EST1085230 Normalized pine embryo library, Lib_D Pinus ...   470   e-131
+CO169296 NDL1_6_B10.b1_A029 Needles control Pinus taeda cDNA clo...   470   e-131
+DR060251 RTNIT1_26_E02.g1_A029 Roots minus nitrogen Pinus taeda ...   464   e-129
+BG039539 NXSI_100_B09_F NXSI (Nsf Xylem Side wood Inclined) Pinu...   452   e-126
+BX255307 Pinus pinaster xylem EST, clone PP004C03 similar to ELO...   442   e-123
+BX252919 Pinus pinaster xylem EST, clone PP074H07 similar to ELO...   436   e-121
+CT575805 Pinus pinaster bud EST.                                      418   e-116
+DR098748 STRR1_47_D06.g1_A033 Stem Response Resistant Pinus taed...   381   e-104
+BX677971 Pinus pinaster root EST, clone RN47E06                       373   e-102
+DR690449 EST1080535 Normalized pine embryo library, Lib_D Pinus ...   343   3e-93
+DR683892 EST1073968 Normalized pine embryo library, Lib_D Pinus ...   317   2e-85
+CF477767 RTWW3_9_H07.g1_A022 Well-watered loblolly pine roots WW...   301   9e-81
+CF395463 RTDS2_11_C10.g1_A021 Drought-stressed loblolly pine roo...   274   2e-72
+CT577300 Pinus pinaster bud EST.                                      254   2e-66
+CT579809 Pinus pinaster bud EST.                                      186   4e-46
+CT577738 Pinus pinaster bud EST.                                      186   4e-46
+BX675172 Pinus pinaster root EST, clone RN10D10                       186   4e-46
+CO169359 NDL1_6_B10.g1_A029 Needles control Pinus taeda cDNA clo...   139   8e-32
+FE522437 li0674425 Radiata pine mature latewood cDNA library Pin...   127   3e-28
+BX677705 Pinus pinaster root EST, clone RN43D07                       125   1e-27
+CD024054 NXRV_027_C03_F NXRV (Nsf Xylem Root wood Vertical) Pinu...   119   7e-26
+FG614563 FEGLCD006_01-B05-T7 PR_FC library Pinus rigida x Pinus ...    38   0.22 
+
+>AA216455 ESTH3 Pinus radiata somatic embryogenic library Pinus
+           radiata cDNA clonepPRE22B 5' similar to Hypothetical
+           translation elongation factor, mRNAsequence.
+          Length = 381
+
+ Score =  597 bits (301), Expect = e-169
+ Identities = 325/325 (100%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   agaggcagaggccgagggtgcaagcgcagtagtaaatccttnctctgcatngaagagatc 60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 34  agaggcagaggccgagggtgcaagcgcagtagtaaatccttnctctgcatngaagagatc 93
+
+                                                                       
+Query: 61  aagaatggccgtctcattctccaatctcagaactgagtcaggcgtggagaagctggatca 120
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 94  aagaatggccgtctcattctccaatctcagaactgagtcaggcgtggagaagctggatca 153
+
+                                                                       
+Query: 121 gctctcgctcacacgcagttatntttctgggtntcaggcatcaacggatgacataagagt 180
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 154 gctctcgctcacacgcagttatntttctgggtntcaggcatcaacggatgacataagagt 213
+
+                                                                       
+Query: 181 atnctctgcacttggncangcacctggatcccattacatcaatgcctcccgttggtacaa 240
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 214 atnctctgcacttggncangcacctggatcccattacatcaatgcctcccgttggtacaa 273
+
+                                                                       
+Query: 241 cacatctgtgccttactagccccaagttttctggggatggtgttggtgttcacatcgang 300
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 274 cacatctgtgccttactagccccaagttttctggggatggtgttggtgttcacatcgang 333
+
+                                    
+Query: 301 gagggagtcagccatcaaaggacga 325
+           |||||||||||||||||||||||||
+Sbjct: 334 gagggagtcagccatcaaaggacga 358
+
+
+>CO171201 NDL1_19_G07.g1_A029 Needles control Pinus taeda cDNA clone
+           NDL1_19_G07_A0295', mRNA sequence.
+          Length = 771
+
+ Score =  490 bits (247), Expect = e-137
+ Identities = 298/315 (94%), Gaps = 2/315 (0%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 10  ggccgagggtgcaagcgcagtagtaaatccttnctctgcatngaagagatcaagaatggc 69
+           |||||||||||||||||||||||||||||||| |||||||| ||||||||||||||||||
+Sbjct: 1   ggccgagggtgcaagcgcagtagtaaatcctttctctgcatagaagagatcaagaatggc 60
+
+                                                                       
+Query: 70  cgtctcattctccaatctcagaactgagtcaggcgtggagaagctggatcagctctcgct 129
+           ||||||||||||||||||||| |||||||||||||||||| ||||||||||| ||| |||
+Sbjct: 61  cgtctcattctccaatctcagcactgagtcaggcgtggagcagctggatcagttcttgct 120
+
+                                                                       
+Query: 130 cacacgcagttatntttctgggtntcaggcatcaacggatgacataagagtatnctctgc 189
+           ||||||||||||| ||||||||| ||||||||||||||||||||||||||||| ||||||
+Sbjct: 121 cacacgcagttatatttctgggtatcaggcatcaacggatgacataagagtatactctgc 180
+
+                                                                       
+Query: 190 acttggncangcacctggatcccattacatcaatgcctcccgttggtacaa-cacatctg 248
+           |||||| || ||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct: 181 acttggccaagcacctggatcccattacatcaatgcctcccgttggtacaaccacatctg 240
+
+                                                                       
+Query: 249 tgccttactagccccaag-ttttctggggatggtgttggtgttcacatcganggagggag 307
+           |||||||||||||||||| ||||||||||| |||||||||||||| || || ||||||||
+Sbjct: 241 tgccttactagccccaagtttttctggggaaggtgttggtgttcaaattgaaggagggag 300
+
+                          
+Query: 308 tcagccatcaaagga 322
+           |||||||||||||||
+Sbjct: 301 tcagccatcaaagga 315
+
+

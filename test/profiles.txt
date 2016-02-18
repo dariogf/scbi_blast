@@ -1,0 +1,20 @@
+dariogf@osiris:~/test_luis> ruby -rprofile profile_parse_table.rb 
+  %   cumulative   self              self     total
+ time   seconds   seconds    calls  ms/call  ms/call  name
+ 48.91   205.00    205.00 18001376     0.01     0.04  BlastResult#find_query
+ 34.80   350.87    145.87    18347     7.95    44.86  Array#each
+ 12.86   404.75     53.88 17984029     0.00     0.00  String#==
+  0.98   408.84      4.09    27165     0.15    30.77  BlastTableResult#parse
+  0.53   411.08      2.24    17347     0.13     0.13  BlastHit#full_subject_length=
+  0.38   412.69      1.61    17347     0.09     0.12  BlastHit#set_limits
+  0.16   413.37      0.68    18206     0.04     0.04  String#split
+  0.14   413.96      0.59   227276     0.00     0.00  String#to_i
+  0.07   414.24      0.28    17347     0.02     0.02  BlastHit#align_len=
+  0.06   414.51      0.27    69388     0.00     0.00  String#to_f
+  0.06   414.77      0.26    17347     0.01     0.02  BlastHit#gaps=
+  0.06   415.02      0.25    87702     0.00     0.00  Fixnum#-
+  0.05   415.24      0.22    17347     0.01     0.02  BlastHit#e_val=
+  0.05   415.46      0.22    17347     0.01     0.02  BlastHit#mismatches=
+
+
+
